@@ -1,0 +1,24 @@
+body{
+    font-family:"Roboto";
+    
+}
+
+header{
+    background-color: #EAC926;
+    color: #666;
+
+}
+
+h4{
+    font-size: 24px;
+    color: aqua;
+}
+.p-precio{
+    font-size: 18px;
+}
+.p-descuento{
+    font-size: 16;
+}
+h5{
+    font-size: 16px;
+}
