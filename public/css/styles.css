@@ -9,6 +9,22 @@ header{
 
 }
 
+/* iconos */
+
+.burger-menu{
+    text-align: center;
+    color: #03264C;
+
+}
+.fa-search{
+    color: #03264C;
+}
+.fa-hand-holding-usd{
+    color: #03264C;
+}
+.fa-address-card{
+    color: #03264C;
+}
 h4{
     font-size: 24px;
     color: aqua;
@@ -21,4 +37,5 @@ h4{
 }
 h5{
     font-size: 16px;
+    text-align: center;
 }
