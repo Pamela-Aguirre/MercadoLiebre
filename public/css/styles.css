@@ -9,7 +9,7 @@ header{
 
 }
 
-/* iconos */
+/* iconos head */
 
 .burger-menu{
     text-align: center;
@@ -25,6 +25,20 @@ header{
 .fa-address-card{
     color: #03264C;
 }
+.fa-sign-in-alt{
+    color: #03264C;
+}
+
+.fa-shopping-basket{
+    color: #03264C;
+}
+.fa-bars{
+    background-color: #1259c3;
+    padding: 8px;
+    color: white;
+    border-radius: 5px;
+}
+
 h4{
     font-size: 24px;
     color: aqua;
@@ -39,3 +53,5 @@ h5{
     font-size: 16px;
     text-align: center;
 }
+
+/* iconos Footer */
